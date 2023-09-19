@@ -1,0 +1,7 @@
+commit 45453f109247aefa7cbf4bcc72c2073309e75e72
+Author: Aleya Begum <kwaleya94@gmail.com>
+Date:   Tue Sep 19 18:51:04 2023 +0000
+
+    Spring Data JPA
+
+ 1 file changed, 4 insertions(+), 2 deletions(-)
